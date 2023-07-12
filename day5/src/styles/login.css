@@ -1,0 +1,19 @@
+body{
+    background-image: url("../image/i2");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    margin-top: 20vh;
+}
+
+.close{
+    float: right;
+    margin: 0;
+}
+
+.h2{
+    text-align: center;
+}
+

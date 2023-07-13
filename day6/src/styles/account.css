@@ -1,0 +1,16 @@
+.accbg{
+    background-image: url("../image/a6");
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    
+}
+
+p{
+    color: rgb(186, 223, 255);
+}
+p1{
+    color:rgb(212, 78, 78);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

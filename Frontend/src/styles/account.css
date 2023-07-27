@@ -1,0 +1,38 @@
+.accbg{
+    background-image: url("../image/p1");
+    /* background-image: url("../image/acc7.jpg"); */
+    /* background-image: url("../image/acc3"); */
+    /* background-color: rgb(141, 194, 196); */
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover; 
+    /* background-attachment: fixed; */
+
+    
+}
+.accdiv{
+    float:left;
+    margin-left: 17vw;
+    opacity: 90%;
+}
+.avadiv{
+    float:right;
+    margin-right: 17vw;
+    opacity: 90%;
+
+}
+p{
+    color: brown;
+}
+p1{
+    color:black;
+}
+
+.probg{
+    background-image: url("../image/pro1.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    border-radius: 50%;
+}

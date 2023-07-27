@@ -1,0 +1,34 @@
+
+
+.side-bar {
+    width: 250px;
+    padding: 20px;
+    background-color:white;
+    height: 94vh;
+    z-index:1000;
+  }
+  
+  .side-bar h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .side-bar-menu {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .side-bar-menu li {
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+  
+  .side-bar-menu li:hover {
+    color: black;
+    /* color: #fff; */
+    background-color: #fdeede;
+    /* background-color: #007bff; */
+    padding: 5px;
+    border-radius: 5px;
+  }
+  

@@ -1,0 +1,13 @@
+.savside{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-image: url('../image/p1');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sav{
+    margin-right: 25vw;
+    margin-top: 10vh;
+}

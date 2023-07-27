@@ -1,0 +1,49 @@
+.transaction-history {
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 80%;
+    border-collapse: collapse;
+    font-size: 14px;
+    margin-left: 12vw;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  thead {
+    background-color: black;
+    color: aliceblue;
+  }
+  
+  tbody tr:nth-child(odd) {
+    background-color: #f9f9f9;
+  }
+  tbody tr:nth-child(even) {
+    background-color: #f1f1f1;
+  }
+  
+  tbody tr:hover {
+    background-color: #cac6c6;
+    
+  }
+  
+
+  .tbg{
+    background-color: rgb(141, 194, 196);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    margin-top: -3vh;
+    
+  }
+
+  .tdivbg {
+    background-image: url("../image/t2");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
